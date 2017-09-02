@@ -1,0 +1,242 @@
+body {
+
+	background-image: url("../images/gaming-pattern.png")
+
+}
+
+#menu {
+
+	    float: right;
+    margin-right: 150px;
+    margin-top: 20px;
+
+}
+
+#Name {
+
+	padding: 20px;
+	margin-left: 150px;
+	font-family: Georgia, Times, "TimesNewRoman", serif;
+	padding-left: 30px;
+	font-size: 30px;
+	text-align: left;
+	background-color: lightblue;
+	width: 250px;
+	padding-bottom: 25px;
+	color: black;
+	border-radius: 5px;
+	float:left;
+
+	
+
+}
+
+header {
+
+	background-color: gray;
+	font-size: 30px;
+	color: white;
+	width: "100%";
+	height: 75px;
+	border-bottom: 1px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+
+}
+
+#menu a {
+
+	text-decoration: none;
+	font-color: black;
+}
+
+.About {
+
+	width: 55%;
+    margin: 0 auto;
+    margin-left: 150px;
+    background-color: lightblue;
+    margin-top: 50px;
+    border-radius: 5px;
+    float: left;
+
+
+}
+
+#about {
+
+	font-size: 30px;
+	padding: 20px;
+
+}
+
+#turtle {
+
+	float: left;
+	padding: 20px;
+	margin-top: -10px;
+	margin-left: -20px;
+}
+
+.connect {
+
+	float: left;
+	background-color: lightblue;
+	width: 175px;
+	padding: 30px;
+	margin-top: 4%;
+	margin-left: 4%;
+	border-radius: 5px;
+}
+
+html, body {
+
+		height: 100%;
+		margin: 0;
+
+}
+
+.content {
+
+		min-height: 50%;
+
+}
+
+.content-inside {
+
+		padding: 20px;
+		padding-bottom: 50px;
+
+}
+
+.footer {
+
+	position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    background: cornflowerblue;
+    padding-top: 15px;
+}
+		
+
+
+.connect-portfolio {
+
+	float: left;
+	background-color: lightblue;
+	width: 175px;
+	padding: 30px;
+	margin-top: 4%;
+	margin-left: 4%;
+	border-radius: 5px;
+
+}
+
+.connect-contact {
+
+	float: left;
+	background-color: lightblue;
+	width: 175px;
+	padding: 30px;
+	margin-top: 4%;
+	margin-left: 4%;
+	border-radius: 5px;
+
+}
+
+form {
+
+	width: 50%;	
+	padding: 25px;
+}
+
+.Container {
+
+	width: 55%;
+    margin: 0 auto;
+    margin-left: 150px;
+    background-color: lightblue;
+    margin-top: 50px;
+    border-radius: 5px;
+    float: left;
+    margin-bottom: 75px
+}
+
+#contact {
+	padding: 20px;
+}
+
+.input {
+	width: 170%;
+	padding: 12px 20px;
+	border-radius: 5px;
+}
+
+.text {
+	font-size: 15px
+}
+
+#submit {
+	border-radius: 5px;
+	background-color: cornflowerblue;
+	color: white;
+}
+
+.inside {
+
+	padding: 25px;
+}
+
+.pimages {
+	height: 250px;
+    width: 250px;
+    margin: 50px;
+    position: relative;
+    left: 11%;
+    margin-right: 15%;
+}
+
+.img1 {
+	float: left;
+}
+
+.img2 {
+	clear: both;
+	float: left;
+}
+
+.img3 {
+	float: left;
+	z-index: -1;
+}
+
+.img4 {
+	clear: both;
+	float: left;
+}
+
+.port-img1 {
+	position: absolute;
+
+}
+
+.port-img2 {
+	position: absolute;
+	
+}
+
+.port-img3 {
+	position: absolute;
+    bottom: -22%;
+    margin-left: 8.65%;
+    background-color: coral;
+    width: 250px;
+    text-align: center;
+    z-index: 1;
+    }
+
+    table {
+    	border
+    }
